@@ -16,5 +16,4 @@ print(Mensaje_despedida, IMC)
 Isobeso = IMC >= 30
 print("El resultado de la prueba es: ", Isobeso)
 
-#Tarea, pedir dos numeros al usuario y colocar si el numero a es mayor que b
-#mostrar en pantalla suma, multiplicacion, division y exponente
+
