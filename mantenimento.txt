@@ -1,0 +1,10 @@
+El electrocardiÃ³grafo es un aparato electrÃ³nico que capta, registra y amplÃ­a la actividad elÃ©ctrica del corazÃ³n a travÃ©s de electrodos
+nombre:Electrocardiografo descripcion El electrocardiógrafo es un aparato electrónico que capta, registra y amplía la actividad eléctrica del corazón a través de electrodos precio 850000.0
+nombre:Electrocardiografo descripcion Capta, registra y amplia la actividad electrica del corazon precio 850000.0
+nombre:Electrocardiografo
+nombre:Electrocardiografo 
+descripcion Capta, registra y amplia la actividad electrica del corazon 
+precio 850000.0
+nombre:Electrocardiografo 
+descripcion Capta, registra y amplia la actividad electrica del corazon 
+precio 850000.0
