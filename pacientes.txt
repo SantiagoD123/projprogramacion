@@ -1,0 +1,7 @@
+
+Nombre:Mateo 
+Descripcion: Cancer, una enfermedad donde las celulas se dividen sin control alguno, pudiendo dañar tejidos 
+Precio: 150000.0
+Nombre:Laura 
+Descripcion: Tiene migraña que es un fuerte dolor de cabeza 
+Precio: 50000.0
